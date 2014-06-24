@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>com.sun.xsom</groupId>
+  <artifactId>xsom</artifactId>
+  <version>20110101-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>42</buildNumber>
+    </snapshot>
+    <lastUpdated>20110519110413</lastUpdated>
+  </versioning>
+</metadata>
